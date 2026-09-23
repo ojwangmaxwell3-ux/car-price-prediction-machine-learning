@@ -62,7 +62,7 @@ Used-car pricing is inconsistent and subjective. This project builds a regressio
 
 ```
 car-price-prediction-machine-learning/
-├── capstone project.ipynb   # Main notebook (EDA → training → tuning → evaluation)
+├── car_price_prediction.ipynb   # Main notebook (EDA → training → tuning → evaluation)
 ├── car_data.csv             # Dataset (2,119 rows)
 ├── requirements.txt
 ├── .gitignore
@@ -78,7 +78,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-Open `capstone project.ipynb` and run all cells.
+Open `car_price_prediction.ipynb` and run all cells.
 
 ## 🛠️ Tech Stack
 
