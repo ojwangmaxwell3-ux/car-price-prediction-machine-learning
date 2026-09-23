@@ -44,6 +44,20 @@ Used-car pricing is inconsistent and subjective. This project builds a regressio
 - `min_samples_split = 10`
 - **Best CV R² = 0.8913**
 
+## 📊 Visualizations
+
+### Model Comparison (R²)
+![Model comparison](images/model_comparison.png)
+
+### Actual vs Predicted Prices
+![Actual vs Predicted](images/actual_vs_predicted.png)
+
+### Feature Importance (Top 15)
+![Feature importance](images/feature_importance.png)
+
+### Residual Distribution
+![Residuals](images/residuals.png)
+
 ## 📁 Project Structure
 
 ```
